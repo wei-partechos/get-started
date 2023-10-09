@@ -1,0 +1,9 @@
+.DS_Store
+/data
+__init__.py
+asgi.py
+settings.py
+urls.py
+wsgi.py
+manage.py
+.vscode

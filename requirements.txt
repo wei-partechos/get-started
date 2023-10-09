@@ -1,0 +1,7 @@
+Django
+psycopg #postgres version 
+redis
+typescript
+python-vuejs
+django-tailwind
+fontawesome
